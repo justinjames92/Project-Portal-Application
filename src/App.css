@@ -2,3 +2,26 @@
   color: #a6acaf !important;
   padding-left: 10%;
 }
+.list-group {
+  background-color: #ccd1d1 !important;
+  --bs-list-group-color: #0c6dce !important;
+  --bs-list-group-bg: transparent !important;
+  --bs-list-group-border-color: transparent !important;
+  font-weight: 500;
+  height: 40rem;
+}
+.mySelection {
+  color: white !important;
+  background-color: #0c6dce !important;
+}
+.defaultColor {
+  color: red !important;
+}
+.table {
+  border: 2px solid black;
+  text-align: left;
+  border-width: 100%;
+}
+.WelcomeDisplay {
+  text-align: center;
+}
